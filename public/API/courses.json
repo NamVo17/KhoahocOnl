@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "title": "Complete English Speaking Course with Native Teachers",
+    "price": 899000,
+    "originalPrice": 1299000,
+    "image": "/images/khoahoc1.png?height=200&width=300",
+    "description": "Master English speaking with certified native teachers through interactive lessons",
+    "fullDescription": "This comprehensive English speaking course is designed for learners who want to achieve fluency with native English speakers. Our certified instructors from the US, UK, and Australia will guide you through practical conversations, pronunciation techniques, and cultural nuances. The course includes 1-on-1 sessions, group discussions, and real-world scenarios to build your confidence in speaking English naturally.",
+    "instructor": "Sarah Johnson",
+    "rating": 4.8,
+    "students": 2847,
+    "duration": "12 weeks",
+    "level": "Beginner to Advanced",
+    "category": "Language",
+    "tags": [
+      "English",
+      "Speaking",
+      "Native Teachers",
+      "Conversation"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Web Development Bootcamp - React & Node.js",
+    "price": 1599000,
+    "originalPrice": 2299000,
+    "image": "/images/khoahoc2.png?height=200&width=300",
+    "description": "Full-stack web development course covering React, Node.js, and modern technologies",
+    "fullDescription": "Become a full-stack developer with this intensive bootcamp covering the most in-demand technologies. Learn React for frontend development, Node.js for backend, MongoDB for databases, and deploy your applications to the cloud. This hands-on course includes 5 real-world projects, career guidance, and lifetime access to course materials.",
+    "instructor": "Michael Chen",
+    "rating": 4.9,
+    "students": 1923,
+    "duration": "16 weeks",
+    "level": "Intermediate",
+    "category": "Programming",
+    "tags": [
+      "React",
+      "Node.js",
+      "Full-stack",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Digital Marketing Mastery with AI Tools",
+    "price": 699000,
+    "originalPrice": 999000,
+    "image": "/images/khoahoc3.png?height=200&width=300",
+    "description": "Learn digital marketing strategies enhanced with AI tools and automation",
+    "fullDescription": "Master digital marketing in the AI era. This course covers SEO, social media marketing, content creation, email marketing, and how to leverage AI tools like ChatGPT, Canva AI, and marketing automation platforms. Perfect for entrepreneurs, marketers, and business owners who want to stay ahead of the curve.",
+    "instructor": "Emma Rodriguez",
+    "rating": 4.7,
+    "students": 3156,
+    "duration": "10 weeks",
+    "level": "Beginner",
+    "category": "Marketing",
+    "tags": [
+      "Digital Marketing",
+      "AI Tools",
+      "SEO",
+      "Social Media"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Data Science & Machine Learning with Python",
+    "price": 1299000,
+    "originalPrice": 1799000,
+    "image": "/images/khoahoc4.png?height=200&width=300",
+    "description": "Complete data science course from basics to advanced machine learning",
+    "fullDescription": "Dive deep into data science and machine learning with Python. Learn pandas, numpy, matplotlib, scikit-learn, and TensorFlow. Work on real datasets, build predictive models, and create data visualizations. This course includes capstone projects and prepares you for data science roles in various industries.",
+    "instructor": "Dr. James Wilson",
+    "rating": 4.8,
+    "students": 1567,
+    "duration": "20 weeks",
+    "level": "Intermediate to Advanced",
+    "category": "Data Science",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "AI"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "UI/UX Design Fundamentals with Figma",
+    "price": 799000,
+    "originalPrice": 1199000,
+    "image": "/images/khoahoc5.png?height=200&width=300",
+    "description": "Learn user interface and user experience design using industry-standard tools",
+    "fullDescription": "Master UI/UX design principles and create stunning user interfaces with Figma. This course covers design thinking, user research, wireframing, prototyping, and design systems. You'll work on real client projects and build a professional portfolio that showcases your design skills.",
+    "instructor": "Lisa Park",
+    "rating": 4.6,
+    "students": 2234,
+    "duration": "14 weeks",
+    "level": "Beginner to Intermediate",
+    "category": "Design",
+    "tags": [
+      "UI/UX",
+      "Figma",
+      "Design",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Business English for Professionals",
+    "price": 599000,
+    "originalPrice": 899000,
+    "image": "/images/khoahoc7.png?height=200&width=300",
+    "description": "Professional English communication for business environments",
+    "fullDescription": "Enhance your professional English skills for business success. Learn business vocabulary, email writing, presentation skills, meeting participation, and negotiation techniques. This course is perfect for professionals who want to advance their careers in international business environments.",
+    "instructor": "Robert Thompson",
+    "rating": 4.5,
+    "students": 1876,
+    "duration": "8 weeks",
+    "level": "Intermediate",
+    "category": "Language",
+    "tags": [
+      "Business English",
+      "Professional",
+      "Communication",
+      "Career"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Mobile App Development with React Native",
+    "price": 1199000,
+    "originalPrice": 1699000,
+    "image": "/images/khoahoc8.png?height=200&width=300",
+    "description": "Build cross-platform mobile apps with React Native and Expo",
+    "fullDescription": "Learn to build professional mobile applications for both iOS and Android using React Native. This course covers navigation, state management, API integration, push notifications, and app store deployment. You'll build 3 complete apps from scratch and learn industry best practices.",
+    "instructor": "Alex Kim",
+    "rating": 4.7,
+    "students": 1432,
+    "duration": "18 weeks",
+    "level": "Intermediate",
+    "category": "Programming",
+    "tags": [
+      "React Native",
+      "Mobile Development",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Cybersecurity Fundamentals",
+    "price": 999000,
+    "originalPrice": 1399000,
+    "image": "/images/khoahoc9.png?height=200&width=300",
+    "description": "Essential cybersecurity skills for protecting digital assets",
+    "fullDescription": "Comprehensive cybersecurity training covering network security, ethical hacking, risk assessment, and incident response. Learn to identify vulnerabilities, implement security measures, and protect organizations from cyber threats. Includes hands-on labs and real-world scenarios.",
+    "instructor": "David Martinez",
+    "rating": 4.6,
+    "students": 987,
+    "duration": "15 weeks",
+    "level": "Beginner to Intermediate",
+    "category": "Technology",
+    "tags": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Network Security",
+      "Risk Management"
+    ]
+  }
+]
