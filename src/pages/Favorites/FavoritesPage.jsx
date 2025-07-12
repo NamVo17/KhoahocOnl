@@ -47,8 +47,8 @@ export default function FavoritesPage() {
     dispatch(setFavorites(newFavorites));
     localStorage.setItem("favorites", JSON.stringify(newFavorites));
     toast({
-      title: "Removed from favorites",
-      description: "Course removed from your favorites list",
+      title: "Đã xóa khỏi mục yêu thích",
+      description: "Khóa học đã bị xóa khỏi danh sách yêu thích của bạn",
     });
   };
 
